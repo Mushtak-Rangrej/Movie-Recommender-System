@@ -4,42 +4,26 @@ An interactive **Movie Recommender Web App** built with **Python** and **Streaml
 
 This app uses data from the TMDB 5000 Movie Dataset and provides movie posters via the TMDb API.
 
----
+🚀 Features
 
-# 📸 Screenshot
-
-![Screenshot]([Movie%20Recommender%20SS.pdf](https://github.com/Mushtak-Rangrej/Movie-Recommender-System/blob/main/Demo%20of%20Movie%20Recommender%20Sytem.jpeg))
-
----
-
-# 🚀 Features
-
-- 🔍 **Content-Based Movie Recommendations**
+- 🔍 Content-Based Movie Recommendations
 - 🖼️ Movie posters fetched using **TMDb API**
 - 🧠 Uses **cosine similarity** to recommend similar movies
 - 🎨 Built with **Streamlit** for a clean and responsive UI
 - 📦 Includes pickled model and preprocessed data for fast performance
 
----
+📂 Project Structure
 
-# 📂 Project Structure
+ app.py # Streamlit app file
+ Movie Recommender.ipynb # Jupyter Notebook for development/testing
+ movies_dict.pkl # Pickled DataFrame containing movie metadata
+ similarity.pkl # Pickled similarity matrix
+tmdb_5000_movies.csv # Raw movie metadata
+ tmdb_5000_credits.csv # Cast & crew data
+ Movie Recommender SS.pdf # Screenshot of the application
+ README.md # This file
 
-├── app.py # Streamlit app file
-├── Movie Recommender.ipynb # Jupyter Notebook for development/testing
-├── movies_dict.pkl # Pickled DataFrame containing movie metadata
-├── similarity.pkl # Pickled similarity matrix
-├── tmdb_5000_movies.csv # Raw movie metadata
-├── tmdb_5000_credits.csv # Cast & crew data
-├── Movie Recommender SS.pdf # Screenshot of the application
-└── README.md # This file
-
-yaml
-Copy
-Edit
-
----
-
-## 🧰 Technologies Used
+🧰 Technologies Used
 
 - **Python**
 - **Streamlit**
@@ -51,9 +35,9 @@ Edit
 
 ---
 
-## 📦 Installation & Run Locally
+ 📦 Installation & Run Locally
 
-1. **Clone the repository**
+1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/movie-recommender-streamlit.git
 cd movie-recommender-streamlit
@@ -95,10 +79,6 @@ Add a search bar with fuzzy matching
 
 Allow filtering by genre, release year, or actors
 
-🧑‍💻 Author
-Mushtak Rangrej
-📧 your.email@example.com
-🔗 GitHub | LinkedIn
 
 📄 License
 This project is licensed under the MIT License.
@@ -110,4 +90,8 @@ Streamlit
 
 Kaggle - TMDB 5000 Movie Dataset
 
-Demo =  (https://github.com/Mushtak-Rangrej/Movie-Recommender-System/blob/main/Demo%20of%20Movie%20Recommender%20Sytem.jpeg)
+
+📸 Screenshot
+
+![Screenshot] = [Movie%20Recommender%20SS.pdf](https://github.com/Mushtak-Rangrej/Movie-Recommender-System/blob/main/Demo%20of%20Movie%20Recommender%20Sytem.jpeg)
+
