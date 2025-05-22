@@ -94,3 +94,4 @@ Kaggle - TMDB 5000 Movie Dataset
 ![Screenshot]
 Movie%20Recommender%20SS.pdf](https://github.com/Mushtak-Rangrej/Movie-Recommender-System/blob/main/Demo%20of%20Movie%20Recommender%20Sytem.jpeg
 
+(Demo of Movie Recommender Sytem.jpeg)
