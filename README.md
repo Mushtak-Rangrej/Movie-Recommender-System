@@ -47,18 +47,16 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-You can create requirements.txt with:
 
+You can create requirements.txt with:
 bash
 Copy
 Edit
 pip freeze > requirements.txt
-Run the app
 
-bash
-Copy
-Edit
+Run the app
 streamlit run app.py
+
 ⚙️ How It Works
 Loads a precomputed similarity matrix using cosine similarity based on textual features like genres, keywords, cast, etc.
 
