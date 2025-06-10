@@ -90,5 +90,5 @@ Kaggle - TMDB 5000 Movie Dataset
 
 
 📸 Screenshot
+![Demo of Movie Recommender Sytem](https://github.com/user-attachments/assets/e639ba61-7834-4e81-b917-1e571ab751d0)
 
-![Screenshot](./Demo of Movie Recommender Sytem.png)
